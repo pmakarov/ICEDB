@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu expandTreeEnabled="true">
+  <title>myPrime Demo Launcher</title>
+  <logo></logo>
+  <backgroundImage>assets/media/splash.swf</backgroundImage>
+  <link-collection>
+    <link id="U1" class="items">
+      <title>Unit 1: Exploring</title>
+	   <link-collection>
+            <link id="L0" class="items">
+              <title>Lesson: What Do I Value?</title>
+              <url>myPRIME_host.html?xml=Unit_1/lesson_1_demo.xml</url>
+            </link>
+            <link id="L1" class="items">
+              <title>Lesson: Defining a Drink</title>
+              <url>myPRIME_host.html?xml=Unit_1/lesson_8_demo.xml</url>
+            </link>
+        </link-collection>
+    </link>
+  </link-collection>
+</menu>

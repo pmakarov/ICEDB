@@ -1,0 +1,792 @@
+<course>
+  <component>
+    <evalInfo type="evaluation" date="1301620173126" evalType="multipleChoiceSingleSelect" componentID="u1l9c21">
+      <questionText><![CDATA[Complete the calendar by entering the number of drink you might consume in a "typical" week. Remember that one standard drink equals 12 oz. of beer 5 oz. of wine or 1.5 oz. of 80-proof liquor all of which contain .6 oz. of pure alcohol.]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">,,,,,6,0,6</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301619071205" componentID="u1l9c22" evalType="ReflectionQuestion">
+      <questionText><![CDATA[How do you feel about how your drinking choices compare to the 0-1-2-3 Guidelines?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I see that I am way over the low-risk guidelines.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301619145004" componentID="u1l9c23" templateType="notes" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Risk is Related to Quantity and Frequency / Low-Risk Guidelines]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">We were missing the last note question to answer. I will edit it now.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301619390697" componentID="u1l9c22b" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Something new or surprising to me about my choices is _____________________.]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I guess I make a lot of high-risk choices.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301620653332" evalType="multipleChoiceSingleSelect" componentID="u1l10c0">
+      <questionText><![CDATA[In this lesson we'll learn more about research findings on the relationship between risk for problems and the quantity and frequency of drug use.]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301620216829" componentID="u1l9c22c" evalType="ReflectionQuestion">
+      <questionText><![CDATA[How do you feel about how your drinking choices compare to national averages?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">By the looks of it, I'm really close to national averages.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301621039631" componentID="u1l14c8" evalType="assessment">
+      <questionText><![CDATA[]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">v0</choice>
+      <choice id="c2">v0</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301621658620" componentID="u1l14c9" evalType="assessment">
+      <questionText><![CDATA[]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">v1</choice>
+      <choice id="c2">v1</choice>
+      <choice id="c3">v1</choice>
+      <choice id="c4">v1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301621659901" evalType="multipleChoiceSingleSelect" componentID="u1l14c9_1">
+      <questionText><![CDATA[Did you notice that I overwrote the original text?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">yes</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301621679901" componentID="u1l14c11_1" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Given your unique factors how might you adjust the 0-1-3 Guidelines for yourself?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I may try to first follow the 0-1-4 guidelines, I still think that an occasional long-island iced tea is ok.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301621704573" componentID="u1l14c11_2" evalType="ReflectionQuestion">
+      <questionText><![CDATA[My reaction to these guidelines is...]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">They seem unrealistic and pretty strict.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301621720073" componentID="u1l14c11_3" evalType="ReflectionQuestion">
+      <questionText><![CDATA[If I choose to follow these guidelines it will be because...]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Because I have no choice.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="contact" date="1301622451890" evalType="contact" componentID="1301622451890"/>
+	<evalData>
+		<contact>
+		  <name>Myprime Demo User</name>
+		  <message>I wanted to contact someone to tell them that I really think this course is great!</message>
+		  <email>contact@myprime.org</email>
+		</contact>
+	</evalData>
+	  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301623993698" evalType="multipleChoiceSingleSelect" componentID="u1l1c0">
+      <questionText><![CDATA[In this lesson you'll explore values and begin to look at how choices can impact the things we care about.]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301624106777" evalType="multipleChoiceMultipleSelect" componentID="u1l1c5">
+      <questionText><![CDATA[Did you notice that I overwrote the original text?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Acceptance</choice>
+      <choice id="c2">Acheivement</choice>
+      <choice id="c3">Attractiveness</choice>
+      <choice id="c4">Challenge</choice>
+      <choice id="c5">Community</choice>
+      <choice id="c6">Creativity</choice>
+      <choice id="c7">Family</choice>
+      <choice id="c8">Forgiveness</choice>
+      <choice id="c9">Freedom</choice>
+      <choice id="c10">Friendship</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301624143700" evalType="multipleChoiceMultipleSelect" componentID="u1l1c8">
+      <questionText><![CDATA[Did you notice that I overwrote the original text?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Acceptance</choice>
+      <choice id="c2">Acheivement</choice>
+      <choice id="c6">Creativity</choice>
+      <choice id="c7">Family</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301624177293" componentID="u1l1c9" evalType="ReflectionQuestion">
+      <questionText><![CDATA[What is it that makes these values worth keeping in comparison with those that you chose to lose?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">These are the things that make my life feel full.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301624203966" evalType="multipleChoiceMultipleSelect" componentID="u1l1c11">
+      <questionText><![CDATA[Did you notice that I overwrote the original text?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c3">Creativity</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301624219481" evalType="multipleChoiceSingleSelect" componentID="u1l1c13">
+      <questionText><![CDATA[One word that describes how it would feel to actually lose these things from my life is: ]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">devestated</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301624252356" evalType="multipleChoiceSingleSelect" componentID="u1l1c14b">
+      <questionText><![CDATA[Would you like to share your response with others?  ]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301634635820" evalType="multipleChoiceSingleSelect" componentID="u2l0c0">
+      <questionText><![CDATA[In this lesson we'll review what we've learned in the Exploring Unit and begin to discover more about how our choices can affect our lives.]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301634733431" componentID="u2l0c3_1" evalType="assessment">
+      <questionText><![CDATA[]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">v0</choice>
+      <choice id="c2">v1</choice>
+      <choice id="c3">v1</choice>
+      <choice id="c4">v1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301634744587" componentID="u2l0c3_2" evalType="assessment">
+      <questionText><![CDATA[]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">v1</choice>
+      <choice id="c2">v0</choice>
+      <choice id="c3">v1</choice>
+      <choice id="c4">v1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301634752900" componentID="u2l0c3_3" evalType="assessment">
+      <questionText><![CDATA[]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">v1</choice>
+      <choice id="c2">v1</choice>
+      <choice id="c3">v1</choice>
+      <choice id="c4">v1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="Timeline" date="1301634909839" evalType="past" componentID="u2l7c10"/>
+    <evalData>
+      <goal>
+        <node_data_field_timeline_type_field_timeline_enddate_value>1277956800000</node_data_field_timeline_type_field_timeline_enddate_value>
+        <node_data_field_timeline_type_field_timeline_orientation_value>top</node_data_field_timeline_type_field_timeline_orientation_value>
+        <node_data_field_timeline_type_field_timeline_y_value>50</node_data_field_timeline_type_field_timeline_y_value>
+        <node_data_field_timeline_type_field_timeline_type_value>1</node_data_field_timeline_type_field_timeline_type_value>
+        <node_data_field_timeline_type_field_timeline_startdate_value>1277956800000</node_data_field_timeline_type_field_timeline_startdate_value>
+        <node_title>Timeline Item - Myprime Demo User</node_title>
+        <node_data_field_timeline_type_field_timeline_x_value>1101</node_data_field_timeline_type_field_timeline_x_value>
+        <node_revisions_body>I saw a freind do meth so i did some too. Not a proud moment.</node_revisions_body>
+      </goal>
+      <goal>
+        <node_data_field_timeline_type_field_timeline_enddate_value>1314849600000</node_data_field_timeline_type_field_timeline_enddate_value>
+        <node_data_field_timeline_type_field_timeline_orientation_value>top</node_data_field_timeline_type_field_timeline_orientation_value>
+        <node_data_field_timeline_type_field_timeline_y_value>50</node_data_field_timeline_type_field_timeline_y_value>
+        <node_data_field_timeline_type_field_timeline_type_value>1</node_data_field_timeline_type_field_timeline_type_value>
+        <node_data_field_timeline_type_field_timeline_startdate_value>1314849600000</node_data_field_timeline_type_field_timeline_startdate_value>
+        <node_title>Timeline Item - Myprime Demo User</node_title>
+        <node_data_field_timeline_type_field_timeline_x_value>1279</node_data_field_timeline_type_field_timeline_x_value>
+        <node_revisions_body>I blacked out in some bar, and I woke up in a holding cell.</node_revisions_body>
+      </goal>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301634946402" componentID="u2l7c12_1" evalType="ReflectionQuestion">
+      <questionText><![CDATA[What did you notice about your timeline?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">There are a lot of regrest there.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301634965121" componentID="u2l7c12_2" evalType="ReflectionQuestion">
+      <questionText><![CDATA[What parallels do you see between your timeline and what you've learned about the phases if any?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I see things were getting worse as time passes.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="Timeline" date="1301637150506" evalType="future" componentID="u3l2c3"/>
+    <evalData>
+      <goal>
+        <node_data_field_timeline_type_field_timeline_enddate_value>1306900800000</node_data_field_timeline_type_field_timeline_enddate_value>
+        <node_data_field_timeline_type_field_timeline_orientation_value>top</node_data_field_timeline_type_field_timeline_orientation_value>
+        <node_data_field_timeline_type_field_timeline_y_value>39</node_data_field_timeline_type_field_timeline_y_value>
+        <node_data_field_timeline_type_field_timeline_type_value>2</node_data_field_timeline_type_field_timeline_type_value>
+        <node_data_field_timeline_type_field_timeline_startdate_value>1306900800000</node_data_field_timeline_type_field_timeline_startdate_value>
+       <node_title>Timeline Item - Myprime Demo User</node_title>
+        <node_data_field_timeline_type_field_timeline_x_value>25</node_data_field_timeline_type_field_timeline_x_value>
+        <node_revisions_body>Stay clean</node_revisions_body>
+      </goal>
+      <goal>
+        <node_data_field_timeline_type_field_timeline_enddate_value>1343793600000</node_data_field_timeline_type_field_timeline_enddate_value>
+        <node_data_field_timeline_type_field_timeline_orientation_value>bottom</node_data_field_timeline_type_field_timeline_orientation_value>
+        <node_data_field_timeline_type_field_timeline_y_value>39</node_data_field_timeline_type_field_timeline_y_value>
+        <node_data_field_timeline_type_field_timeline_type_value>2</node_data_field_timeline_type_field_timeline_type_value>
+        <node_data_field_timeline_type_field_timeline_startdate_value>1343793600000</node_data_field_timeline_type_field_timeline_startdate_value>
+        <node_title>Timeline Item - Myprime Demo User</node_title>
+        <node_data_field_timeline_type_field_timeline_x_value>196</node_data_field_timeline_type_field_timeline_x_value>
+        <node_revisions_body>Buy a motorcyle</node_revisions_body>
+      </goal>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301637166100" componentID="u3l2c4_1" evalType="ReflectionQuestion">
+      <questionText><![CDATA[How does your future timeline compare to your past timeline?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">It looks a lot better.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301637195116" componentID="u3l2c4_2" evalType="ReflectionQuestion">
+      <questionText><![CDATA[How could your alcohol or drug choices help or hurt reaching your goals?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">By holding me back from being able to meet all of my goals in life.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301637207257" componentID="u3l2c4_3" evalType="ReflectionQuestion">
+      <questionText><![CDATA[If you accomplished these things how would you feel?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Way better than I do now</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301637223804" componentID="u3l2c5" evalType="multipleChoiceSingleSelect">
+      <questionText><![CDATA[Please review the statements below and select which one you most strongly agree with:]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I'm ready to make low-risk choices and I need to put together a plan.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301637278882" componentID="u3l2c8" templateType="notes" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Thinking About My Future]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I promised I would keep writing notes, and so I am.  I have a good feeling about the offline version of the course, don't you?</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301667300006" evalType="multipleChoiceSingleSelect" componentID="u3l3c0">
+      <questionText><![CDATA[In this lesson we'll explore the five key elements that aid in creating a plan for success in achieving our goals.]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301667589087" componentID="u3l3c5_1" evalType="FIB">
+      <questionText><![CDATA[1. One significant thing I did in the past that I consider a success is...<input id="c1"/>2. What helped you make this change or be successful?<input id="c2"/>3. How did you know it was a success? In other words how did you measure your success?<input id="c3"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Overcoming my leg injury</choice>
+      <choice id="c2">Because I didn’t give up. Physical therapy sucked but I stuck with it because I wanted to play basketball again.</choice>
+      <choice id="c3">I was able to play basketball again.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301667653072" componentID="u3l3c5_2" evalType="FIB">
+      <questionText><![CDATA[4. What obstacles did you encounter and what helped you succeed when these obstacles were encountered?<input id="c1"/>5. Describe any cost or sacrifice you made in order to succeed.<input id="c2"/>6. Why didn't you quit when faced with an obstacle?<input id="c3"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">It was really frustrating because I had to wait a year before I could play again since I had to have a second surgery.  I missed a lot of practices but I attended games as much as I could even though I couldn’t play.</choice>
+      <choice id="c2">I didn’t have to pay for the surgery because my parents covered it. But I spent a lot of time in the hospital and in PT so I missed a lot of things.</choice>
+      <choice id="c3">Because I wanted to play basketball again and be an active part of the team, not just sitting on the bench</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301667692556" componentID="u3l3c5_3" evalType="FIB">
+      <questionText><![CDATA[7. What support was available? How did you utilize the support that was available?<input id="c1"/>8. How can you use your experience to help you be successful in making new choices about alcohol or drug use?<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">The team was really there for me and so were my parents. I pushed myself a lot but used that support when I needed it.</choice>
+      <choice id="c2">If I want to do something I just have to push myself. I can’t let anything stop me or get in my way.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301670470191" evalType="multipleChoiceSingleSelect" componentID="U3L3C6_1"/>
+    <evalData>
+      <choice id="c1">Own Starbucks Corp.
+
+ : June 2011</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301673812108" evalType="multipleChoiceSingleSelect" componentID="u3l3c6_1"/>
+    <evalData>
+      <choice id="c1">Own Starbucks Corp.
+
+ : June 2011</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301673814937" evalType="multipleChoiceSingleSelect" componentID="u3l3c6_2">
+      <questionText><![CDATA[Set a date. (NOTE: This date should be different than the date you set for achieving the goal.)]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">06/01/2011</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301674079769" componentID="u3l3c6_3" evalType="FIB">
+      <questionText><![CDATA[1. I'm going to tell these people about my goal... <input id="c1"/>2. Here's what I'll tell them...<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I’m not sure yet. My girlfriend Rachel and maybe my buddy Ian.</choice>
+      <choice id="c2">I need to stop drinking so much all the time.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301674082738" componentID="u3l3c6_4" evalType="FIB">
+      <questionText><![CDATA[Changes I can make in my life to help me meet this goal...<input id="c1"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Drink less. Not turn to alcohol every time I need to chill out or when I get pissed off.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301674086691" componentID="u3l3c6_5" evalType="FIB">
+      <questionText><![CDATA[1. The difficulties I might face are... <input id="c1"/>2. I will stay on track by...<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Wanting to drink with my buddies, not wanting to be called a wimp or look like a loser</choice>
+      <choice id="c2">Pushing myself and asking those around me to help keep me on track.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301674091644" componentID="u3l3c6_6" evalType="FIB">
+      <questionText><![CDATA[1. Who I can ask for support... <input id="c1"/>2. How they can help me...<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">My girlfriend Rachel and my buddy Ian. Maybe my squad leader.</choice>
+      <choice id="c2">By helping me stay on track and encouraging me not to drink so much. Or reminding me that I don’t have to drink so much.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301674137629" evalType="multipleChoiceMultipleSelect" componentID="u3l3c6_7">
+      <questionText><![CDATA[Did you notice that I overwrote the original text?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Own Starbucks Corp.
+
+ : June 2011</choice>
+      <choice id="c2">06/01/2011</choice>
+      <choice id="c3">asd fasdf</choice>
+      <choice id="c4">asd fasdf sa</choice>
+      <choice id="c5">asdf asdf asdf asdf sadf sadf asdf sa</choice>
+      <choice id="c6">asdf asdf asdf asdf sad</choice>
+      <choice id="c7">fsad fasdf asdf sadf sadf sadf</choice>
+      <choice id="c8">sad fsadf sadf sadf sadf sadf</choice>
+      <choice id="c9">sadf sadf sadf sadfsdfs</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301671788623" componentID="u3l3c8" templateType="notes" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Preparing for Success]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I keep taking notes and more notes, when will this end?</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301948023581" evalType="multipleChoiceSingleSelect" componentID="u3l4c0">
+      <questionText><![CDATA[In this lesson we'll identify the people and organizations around us that can best support us in making low-risk choices.]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301953758386" componentID="u3l4c7_1" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Who are some specific people who will support me?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Like I said, Rachel and Ian for sure. I can probably talk to the chaplain as well.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301953782335" componentID="u3l4c7_2" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Where can I find other people who will support me?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I’m sure I can find some other people but I can’t think of them right now.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301953810161" componentID="u3l4c7_3" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Who would respect me if I made changes in my alcohol or drug choices?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I guess my family, and some of my friends, and Rachel. But there’s also gonna be people who think you’re a pansy if you don’t drink a lot. </choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301953832063" componentID="u3l4c7_4" evalType="ReflectionQuestion">
+      <questionText><![CDATA[What can these people do to support me?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Stop giving me a hard time when I don’t want to drink.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301953878899" componentID="u3l4c7_5" evalType="ReflectionQuestion">
+      <questionText><![CDATA[What would I say to ask for support?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I don’t feel like drinking tonight, period.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301954760077" componentID="u3l5c5_1" evalType="ReflectionQuestion">
+      <questionText><![CDATA[What strengths do I have that will help me make these changes?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I’m strong and I won’t back down</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301954788733" componentID="u3l5c5_2" evalType="ReflectionQuestion">
+      <questionText><![CDATA[What would others who care about me say are my best qualities?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I’m strong and determined. I’ve always got your back.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301954826749" componentID="u3l5c5_3" evalType="ReflectionQuestion">
+      <questionText><![CDATA[How have I succeeded in tough situations before?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">You just suck it up and do it.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1301954920437" componentID="u3l5c7" templateType="notes" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Support Within Me]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I decided to write yet another note in an attempt to create a bloated Shared Object file.  After months of taking this course over and over, I feel that it is becoming quite hard to generate content.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302018895032" evalType="multipleChoiceSingleSelect" componentID="u3l6c0">
+      <questionText><![CDATA[In this lesson we'll explore ways of reigniting the fun in life by creating a plan for future activities.]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302027397169" componentID="u3l6c5_1" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Something I enjoyed in the past and will begin doing again is...]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Play basketball more. I haven’t played in a while.  Or go hunting.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302027421859" componentID="u3l6c5_2" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Something I would like to do that I have not done before is...]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Fly in a chopper </choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302027456456" componentID="u3l6c5_3" evalType="ReflectionQuestion">
+      <questionText><![CDATA[I think it would be fun to...]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Travel the world</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302027963379" evalType="multipleChoiceSingleSelect" componentID="u3l6c6">
+      <questionText><![CDATA[To view the Sensation-Seeking Scale click Start. To skip the interaction click Next.]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Start</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302027520212" componentID="u3l6c7_1" evalType="assessment">
+      <questionText><![CDATA[]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">v4</choice>
+      <choice id="c2">v2</choice>
+      <choice id="c3">v1</choice>
+      <choice id="c4">v1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302027537229" componentID="u3l6c7_2" evalType="assessment">
+      <questionText><![CDATA[]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">v1</choice>
+      <choice id="c2">v1</choice>
+      <choice id="c3">v3</choice>
+      <choice id="c4">v0</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302027564278" evalType="multipleChoiceMultipleSelect" componentID="u3l6c7_3">
+      <questionText><![CDATA[Did you notice that I overwrote the original text?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">v4</choice>
+      <choice id="c2">v2</choice>
+      <choice id="c3">v1</choice>
+      <choice id="c4">v1</choice>
+      <choice id="c5">v1</choice>
+      <choice id="c6">v1</choice>
+      <choice id="c7">v3</choice>
+      <choice id="c8">v0</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302034103163" componentID="u3l7c5_1" evalType="FIB">
+      <questionText><![CDATA[1. Is there a particular skill or situation that you feel may be state dependent in any way? If you're not sure click on the link at the bottom of the page for ideas.<input id="c1"/>2. How will you practice overcoming that skill or situation?<input id="c2"/>3. Is there someone you can turn to for support in overcoming that skill or situation in the future?<input id="c3"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Partying,  so I guess just being in social situations</choice>
+      <choice id="c2">Cut back on my drinking and just get used to it. I might have to separate myself from some of the guys I hang out with for a while.</choice>
+      <choice id="c3">Ian</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302034143398" componentID="u3l7c5_2" evalType="FIB">
+      <questionText><![CDATA[4. Is there a person or group of people you rarely do things with unless you are both making high-risk choices?<input id="c1"/>5. What else you could do with that person or those people that does not involve making high-risk choices?<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Yeah</choice>
+      <choice id="c2">Well, there’s not much else to do at night but hang out. Maybe play video games or something. We also play a lot of poker. All those things tend to involve drinking though so I’ll just have to learn to make low-risk choices and do it without drinking.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302034148242" evalType="multipleChoiceSingleSelect" componentID="u3l7c5_3">
+      <questionText><![CDATA[How important is it to you to have fun without high-risk alcohol or drug choices?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">0</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302034150726" evalType="multipleChoiceSingleSelect" componentID="u3l7c5_4">
+      <questionText><![CDATA[To what extent will your plan for overcoming state dependent learning help you learn to have fun without high-risk choices? ]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">0</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302034153148" evalType="multipleChoiceSingleSelect" componentID="u3l7c5_5">
+      <questionText><![CDATA[How confident are you that you can take the next step to have more fun without making high-risk choices?]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">0</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302034538262" componentID="u3l7c9" templateType="notes" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Overcoming State Dependent Learning]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Notes and notes of notes and notes, noting my notes, noting your notes.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302035377914" componentID="u3l8c4" evalType="FIB">
+      <questionText><![CDATA[1. What little things can I use as short-term rewards on a weekly and/or monthly basis?<input id="c1"/>2. What longer term rewards am I interested in planning for?<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I’ll be able to save more money. </choice>
+      <choice id="c2">If I spend less money on beer I can buy my girl a better ring. For me though I could buy a bike. Eventually we want to own a house too.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302035494259" componentID="u3l8c7_1" evalType="FIB">
+      <questionText><![CDATA[1. It's important to recognize our own progress. How will I measure my success?<input id="c1"/>2. Immediate rewards can be everywhere. Our feelings are one kind of reward. How will I feel when I succeed?<input id="c2"/>3. Think about the next time you have a chance to make high-risk choices but choose to make low-risk choices instead. What would you like to do the next day that you may not have been able to do if you had been making high-risk choices?<input id="c3"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">When I can regularly cut back my drinking, follow the low-risk guidelines</choice>
+      <choice id="c2">Unstoppable</choice>
+      <choice id="c3">Get out of bed early, maybe go for a run</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302035541025" componentID="u3l8c7_2" evalType="FIB">
+      <questionText><![CDATA[4. Helping others feel good about us is another kind of reward. How will the person closest to me feel when I succeed?<input id="c1"/>5. The most important reward for me is...<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Rachel will be happier. She hates how much I drink now.</choice>
+      <choice id="c2">Knowing that I’m overcoming a problem I didn’t really realize I had until now. And being there for my family.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302035611151" componentID="u3l8c9" templateType="notes" evalType="ReflectionQuestion">
+      <questionText><![CDATA[Rewarding Myself]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Let's see how bloated I can make my LSO file.  I will try harder and harder to keep stress testing the system.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302040667093" evalType="multipleChoiceSingleSelect" componentID="u3l9c0">
+      <questionText><![CDATA[In this lesson we'll explore the anxiety and fears that people face when confronted with the opportunity to make high-risk choices. We'll also explore coping mechanisms and develop strategies for dealing with cues to drink or use.]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302041197357" componentID="u3l9c6_1" evalType="FIB">
+      <questionText><![CDATA[1. A typical situation where I would normally make high-risk choices is...<input id="c1"/>2. The next event coming up where it will be tempting for me to make high-risk choices is...<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Hanging out at the bars</choice>
+      <choice id="c2">Pretty much every weekend</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302041266122" componentID="u3l9c6_2" evalType="FIB">
+      <questionText><![CDATA[3. Before that situation or event who will I tell about my decision to make a change?<input id="c1"/>4. What will I say to this person (or these people) about my decision to make a change? <input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Rachel and Ian</choice>
+      <choice id="c2">I will say: " That I’m cutting back my drinking. That it’s time for a change, and that I’m tired of screwing up."</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302041314544" componentID="u3l9c6_3" evalType="FIB">
+      <questionText><![CDATA[5. Who will be there to support me during that event or situation (who will be abstaining or making other low-risk choices)? <input id="c1"/>6. What will I ask them to do to support me during that event (or in that situation)?<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Rachel, Ian and maybe Jason. He’s a good guy.</choice>
+      <choice id="c2">Keep an eye on me and encourage me but not publicly or anything. Just knowing they’re there will help.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302041374560" componentID="u3l9c6_4" evalType="FIB">
+      <questionText><![CDATA[7. What will be happening at this event that might make it difficult to make low-risk choices?<input id="c1"/>8. How will I deal with the things that make it more difficult?<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I love to drink so it’s a matter of having to stop myself and stick to making low-risk choices. Plus, a lot of the guys are hardcore drinkers and really pound beers.</choice>
+      <choice id="c2">I’m just going to have to deal with them. If people notice I’m not drinking a lot I’ll just have to be prepared to deal with it.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302041911289" componentID="u3l9c8_1" evalType="FIB">
+      <questionText><![CDATA[1. What will I do if I feel the urge to make a high-risk drinking or drug choice?<input id="c1"/>2. What is happening or what am I feeling right before I make a high-risk choice?<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">I'll have to talk myself down and remember why I’m doing this.</choice>
+      <choice id="c2">The desire to drink. I love to drink.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302041945012" componentID="u3l9c8_2" evalType="FIB">
+      <questionText><![CDATA[3. What is likely to be the most important thing for me to remember at that time in order to make a low-risk choice?<input id="c1"/>4. What will I tell myself to counter the high-risk feelings and thoughts so I can make a low-risk choice?<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Why I’m doing this. The hell I’ve been through and put Rachel through.</choice>
+      <choice id="c2">That I can do this. I’m strong and I just need to suck it up and do this.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302041998722" componentID="u3l9c8_3" evalType="FIB">
+      <questionText><![CDATA[5. What will I do to make it more likely I will have a good time making low-risk choices?<input id="c1"/>6. What are some things I need to be prepared to say if I'm in a situation where I'm tempted to make a high-risk drinking or drug choice but want to make a low-risk choice?<input id="c2"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Stop focusing so much on the alcohol and focus on other things around me</choice>
+      <choice id="c2">I’m good, man. </choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302042033524" componentID="u3l9c8_4" evalType="FIB">
+      <questionText><![CDATA[7. Something I did in the past that helped me avoid high-risk choices and make low-risk choices is...<input id="c1"/>]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Getting myself out of the situation. When I’m in a bar for long periods of time I’m going to drink more.</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302042848175" evalType="multipleChoiceSingleSelect" componentID="u3l11c0">
+      <questionText><![CDATA[In this lesson we'll have an opportunity to reflect on our experiences and share them with someone  we care about by writing a letter. ]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">1</choice>
+    </evalData>
+  </component>
+  <component>
+    <evalInfo type="evaluation" date="1302042913582" evalType="multipleChoiceSingleSelect" componentID="u3l11c3">
+      <questionText><![CDATA[Write a letter from your heart to a special person in your life.  What would you like to share with that person about this experience? See if you can include at least three things that you've learned from the program.]]></questionText>
+    </evalInfo>
+    <evalData>
+      <choice id="c1">Rachel,
+
+I thought this class was going to be another lame class but it’s made me realize some things. I know I need to cut back on my drinking. I’ve been making a lot of high-risk choices and putting our relationship at risk. I know I haven’t been the best I could be to you lately and I know how much you hate my drinking. But I’m going to try to make better choices from now on. This class taught me it’s called making low-risk choices, or 3 beers max. That’s a whole lot less than what I normally drink. You know how I have a high tolerance? Apparently it actually puts me in a more risky situation. I learned that it causes more problems. That’s probably why I got my DUI…. Anyway, I just want you to know I’m working on getting better, and that I love you.
+Mike
+</choice>
+    </evalData>
+  </component>
+</course>

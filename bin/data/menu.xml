@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu expandTreeEnabled="true">
+  <title>myPRIME Video Course</title>
+  <link-collection>
+    <link id="U1" class="items">
+      <title>Unit 1: Exploring</title>
+	   <link-collection>
+            <link id="L0" class="items">
+              <title>Lesson 0: Exploring Unit Introduction</title>
+              <url>lesson_0.xml</url>
+            </link>
+            <link id="L1" class="items">
+              <title>Lesson 1: What do I Value?</title>
+              <url>lesson_1.xml</url>
+            </link>
+            <link id="L2" class="items">
+              <title>Lesson 2: Two Types of Problems</title>
+              <url>lesson_2.xml</url>
+            </link>
+			<link id="L3" class="items">
+              <title>Lesson 3: What Do Most People Say?</title>
+              <url>lesson_3.xml</url>
+            </link>
+			<link id="L4" class="items">
+              <title>Lesson 4: Heart Disease is a Lifestyle-Releated Problem</title>
+              <url>lesson_4.xml</url>
+			</link>
+			<link id="L4T1" class="items">
+			   <title>Lesson 4, Topic 1: Biology</title>
+	           <url>lesson_4T1.xml</url>
+			</link>
+			<link id="L4T2" class="items">
+			   <title>Lesson 4, Topic 2: Choices</title>
+	           <url>lesson_4T2.xml</url>
+			</link>
+			<link id="L4T3" class="items">
+			   <title>Lesson 4, Topic 3: Psychological and Social Influences</title>
+	           <url>lesson_4T3.xml</url>
+			</link>
+			 <link id="L5" class="items">
+              <title>Lesson 5: What Kind of Person Develops Alcoholism</title>
+              <url>lesson_5.xml</url>
+            </link>
+			<link id="L6" class="items">
+              <title>Lesson 6: Alcoholism and Drug Addiction are Also Lifestyle-Related Health Problems</title>
+              <url>lesson_6.xml</url>
+			</link>
+			<link id="L6T1" class="items">
+				<title>Lesson 6, Topic 1: Body, Brain, Biology</title>
+				<url>lesson_6T1.xml</url>
+			</link>
+			<link id="L6T1A" class="items">
+				<title>Lesson 6, Topic 1A: Adoption Research</title>
+				<url>lesson_6T1A.xml</url>
+			</link>
+			<link id="L6T1B" class="items">
+				<title>Lesson 6, Topic 1B: What is inherited that increases Risk?</title>
+				<url>lesson_6T1B.xml</url>
+			</link>
+			<link id="L6T2" class="items">
+				 <title>Lesson 6, Topic 2: Choices</title>
+				 <url>lesson_6T2.xml</url>
+			</link>
+			<link id="L6T3" class="items">
+				<title>Lesson 6, Topic 3: Psychological Influences</title>
+				<url>lesson_6T3.xml</url>
+			</link>
+			<link id="L6T4" class="items">
+				<title>Lesson 6, Topic 4: Social Influences</title>
+				<url>lesson_6T4.xml</url>
+			</link>
+			<link id="L7" class="items">
+				<title>Lesson 7: Preventing Health Problems - Two Questions</title>
+				<url>lesson_7.xml</url>
+			</link>
+			<link id="L8" class="items">
+				<title>Lesson 8: What is Low Risk for Alcohol?</title>
+				<url>lesson_8.xml</url>
+			</link>
+			<link id="L8T1" class="items">
+				<title>Lesson 8, Topic 1: Common Drinking Advice</title>
+				<url>lesson_8T1.xml</url>
+			</link>
+			<link id="L8T2" class="items">
+				<title>Lesson 8, Topic 2: Defining a Drink</title>
+				<url>lesson_8T2.xml</url>
+			</link>
+			<link id="L9" class="items">
+				<title>Lesson 9: Risk is Releated to Quanitity and Frequency/Low-Risk Guidelines</title>
+				<url>lesson_9.xml</url>
+			</link>
+			<link id="L10" class="items">
+				<title>Lesson 10: What is Low Risk for Drugs?</title>
+				<url>lesson_10.xml</url>
+			</link>
+			<link id="L11" class="items">
+				<title>Lesson 11: Impairment Problems</title>
+				<url>lesson_11.xml</url>
+			</link>
+			<link id="L11T1" class="items">
+				<title>Lesson 11, Topic 1: Recognizing Impairment</title>
+				<url>lesson_11T1.xml</url>
+			</link>
+			<link id="L11T2" class="items">
+				<title>Lesson 11, Topic 2: High Tolerance</title>
+				<url>lesson_11T2.xml</url>
+			</link>
+			<link id="L11T3" class="items">
+				<title>Lesson 11, Topic 3: What About Drugs and Impairment?</title>
+				<url>lesson_11T3.xml</url>
+			</link>
+			<link id="L12" class="items">
+				<title>Lesson 12: Problems: Chance or Choice?</title>
+				<url>lesson_12.xml</url>
+			</link>
+			<link id="L13" class="items">
+				<title>Lesson 13: Psychological Influences</title>
+				<url>lesson_13.xml</url>
+			</link>
+			<link id="L13T1" class="items">
+				<title>Lesson 13, Topic 1: Can I avoid Problems with a Designated Driver?</title>
+				<url>lesson_13T1.xml</url>
+			</link>
+			<link id="L13T2" class="items">
+				<title>Lesson 13, Topic 2: Can I Overcome Impairment with Extra Effort?</title>
+				<url>lesson_13T2.xml</url>
+			</link>
+			<link id="L14" class="items">
+				<title>Lesson 14: Do We All Respond the Same?</title>
+				<url>lesson_14.xml</url>
+			</link>
+			<link id="L15" class="items">
+				<title>Lesson 15: Exploring Unit Summary</title>
+				<url>lesson_15.xml</url>
+			</link>
+         </link-collection>
+    </link>
+    <link id="U2" class="items">
+      <title>Unit 2: Reflecting</title>
+      <link-collection>
+		  <link id="L0" class="items">
+		     <title>Lesson 0: Reflecting Unit Introduction</title>
+			 <url>Lesson_0.xml</url>
+		  </link> 
+		  <link id="L1" class="items">
+		     <title>Lesson 1: Green Phase: Low-Risk Choices</title>
+			 <url>Lesson_1.xml</url>
+		  </link> 
+		  <link id="L2A" class="items">
+		     <title>Lesson 2A: The High Risk Continuum</title>
+			 <url>Lesson_2A.xml</url>
+		  </link> 
+		  <link id="L2" class="items">
+		     <title>Lesson 2: Yellow Phase: High-Risk Choices</title>
+			 <url>Lesson_2.xml</url>
+		 </link> 
+		 <link id="L3" class="items">
+		     <title>Lesson 3: Orange Phase: Psychological Influences</title>
+			 <url>Lesson_3.xml</url>
+		 </link> 
+		 <link id="L4" class="items">
+		     <title>Lesson 4: Red Phase: Addiction</title>
+			 <url>Lesson_4.xml</url>
+		 </link> 
+		 <link id="L5" class="items">
+		     <title>Lesson 5: Making the Risk Real</title>
+			 <url>Lesson_5.xml</url>
+		 </link> 
+		 <link id="L6" class="items">
+		     <title>Lesson 6: The Spiral</title>
+			 <url>Lesson_6.xml</url>
+		 </link> 
+		 <link id="L7" class="items">
+		     <title>Lesson 7: A Closer Look at My Own Choices</title>
+			 <url>Lesson_7.xml</url>
+		 </link> 
+		 <link id="L8" class="items">
+		     <title>Lesson 8: Wolf Story</title>
+			 <url>Lesson_8.xml</url>
+		 </link> 
+	  </link-collection>
+    </link>
+	<link id="U3" class="items">
+		<title>Unit 3: Protecting</title>
+		<link-collection>
+			<link id="L0" class="items">
+				<title>Lesson 0: Protecting Unit Introduction</title>
+				<url>Lesson_0.xml</url>
+			</link>
+			<link id="L1" class="items">
+				<title>Lesson 1: Protecting What I Value</title>
+				<url>Lesson_1.xml</url>
+			</link>
+			<link id="L2" class="items">
+				<title>Lesson 2: Thinking About My Future</title>
+				<url>Lesson_2.xml</url>
+			</link>
+			<link id="L3" class="items">
+				<title>Lesson 3: Preparing for Success</title>
+				<url>Lesson_3.xml</url>
+			</link>
+			<link id="L4" class="items">
+				<title>Lesson 4: Support Around Me: My Relationship to Others</title>
+				<url>Lesson_4.xml</url>
+			</link>
+			<link id="L5" class="items">
+				<title>Lesson 5: Support Within Me</title>
+				<url>Lesson_5.xml</url>
+			</link>
+			<link id="L6" class="items">
+				<title>Lesson 6: Finding Fun</title>
+				<url>Lesson_6.xml</url>
+			</link>
+			<link id="L7" class="items">
+				<title>Lesson 7: Overcoming State Dependent Learning</title>
+				<url>Lesson_7.xml</url>
+			</link>
+			<link id="L8" class="items">
+				<title>Lesson 8: Rewarding Myself</title>
+				<url>Lesson_8.xml</url>
+			</link>
+			<link id="L9" class="items">
+				<title>Lesson 9: Be Ready, Be Quick</title>
+				<url>Lesson_9.xml</url>
+			</link>
+			<link id="L10" class="items">
+				<title>Lesson 10: My Commitment</title>
+				<url>Lesson_10.xml</url>
+			</link>
+			<link id="L11" class="items">
+				<title>Lesson 11: My Letter</title>
+				<url>Lesson_11.xml</url>
+			</link>
+			<link id="L12" class="items">
+				<title>Lesson 12: Drawing to a Close</title>
+				<url>Lesson_12.xml</url>
+			</link>
+		</link-collection>
+	</link>
+  </link-collection>
+</menu>
